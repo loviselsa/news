@@ -1,2 +1,2 @@
 # news
-yes
+ne
